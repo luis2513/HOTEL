@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Hotel-Alura-Java-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hotel-Alura-Java-main/mchange-commons-java-0.2.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hotel-Alura-Java-main/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hotel-Alura-Java-main/mysql-connector-java-8.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hotel-Alura-Java-main/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
